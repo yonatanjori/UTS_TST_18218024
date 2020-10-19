@@ -1,0 +1,8 @@
+{
+  "short_name": "18218024 Web App",
+  "name": "18218024 UTS II3160 Web Application",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
