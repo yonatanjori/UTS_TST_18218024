@@ -1,0 +1,17 @@
+.container {
+  width: 100vw;
+  height: 13vh;
+  padding: 15px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  background-color: #149400;
+
+  .title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(15, 15, 15);
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+}
