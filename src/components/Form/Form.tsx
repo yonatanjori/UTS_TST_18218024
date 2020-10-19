@@ -53,7 +53,7 @@ const Form = () : ReactElement => {
           <input type="text" value={last} className={styles.input} onChange={(e) => setLast(e.target.value)}/>
         </div>
         <div className={styles.btn} onClick={() => postData(first, middle, last)}>
-          Call API !
+          Sambut Saya
         </div>
       </div>
     </div>
